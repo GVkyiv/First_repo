@@ -1,1 +1,1 @@
-print("Hello World")git config --global user.email "твой_email_из_GitHub"
+print("Hello World")
